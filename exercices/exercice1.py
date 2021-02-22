@@ -1,2 +1,2 @@
-def taille(arbre, lettre):
+def recherche(lst, n):
     return ...
