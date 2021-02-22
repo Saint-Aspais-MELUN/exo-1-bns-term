@@ -1,6 +1,6 @@
 assert plus_courte_distance([(7, 9), (2, 5), (5, 2)], (0, 0)) == (2, 5), "erreur"
 
-# Sujet 8
+# Sujet 1
 
 Ce sujet comporte deux exercices : voir le PDF ci-joint
 
