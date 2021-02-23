@@ -6,10 +6,7 @@ Pour le premier exercice, vous devez écrire une fonction `recherche`.
 
 
 Pour le deuxième, il s'agit de compléter le code fourni.  
-Attention, il y a une erreur dans le PDF. Il faut lire :  
-<pre><code style="background-color:black;color:white;width:100%;font-size: large;">
-assert plus_courte_distance([(7, 9), (2, 5), (5, 2)], (0, 0)) == (2, 5), "erreur"</code></pre>  
-(et pas `[2,5]`)
+
 
 
 - Les fichiers à compléter sont dans le dossier `exercices`.
